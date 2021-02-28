@@ -6,7 +6,7 @@
 int main() 
 {
     printf("\n\n****OUTPUT****\n\n"); 
-    if (fork()== 0) 
+    if ( fork()== 0 ) 
         printf("Child Process: hello from child\n"); 
     else
     { 
