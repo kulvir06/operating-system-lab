@@ -20,7 +20,6 @@ int main() {
     scanf("%d",&num);
 
     pthread_t id;
-
     pthread_create(&id, NULL, Thread, &num);
     int* ptr;
     pthread_join(id, (void**)&ptr);
