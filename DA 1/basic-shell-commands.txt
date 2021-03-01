@@ -1,0 +1,29 @@
+pwd COMMAND
+This command prints the location of your current working directory.
+
+ls COMMAND
+ls is used to print contents of a directory, by default it lists contents of current working directory(PWD).
+
+cd COMMAND
+cd command is used to move one directory up.
+
+cat COMMAND
+It is used to print the contents of a file to the screen(stdout more precisely).
+
+cp COMMAND
+cp is used to copy files and directories .
+
+mv COMMAND
+mv command is used to move or rename directories and files.
+
+rm COMMAND
+rm command is used to remove directories or files.
+
+mkdir COMMAND
+mkdir is used to make a new directory in linux
+
+rmdir COMMAND
+rmdir is uesd to remove a directory.
+
+ln COMMAND
+This command is used to make link between files and directories.
